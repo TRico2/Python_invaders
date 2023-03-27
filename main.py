@@ -1,6 +1,6 @@
 import sys, random, pygame
 from pygame.locals import *
 
-FPS = 30
-WINDOWWIDTH = 640
-WINDOWHEIGHT = 480
+FPS = 60
+WINDOWWIDTH = 1280
+WINDOWHEIGHT = 720
